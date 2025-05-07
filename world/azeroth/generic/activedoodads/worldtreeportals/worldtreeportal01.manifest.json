@@ -1,0 +1,40 @@
+{
+	"fileDataID": 197068,
+	"textures": [
+		{
+			"fileDataID": 1394301,
+			"file": "glowball.blp"
+		},
+		{
+			"fileDataID": 1394306,
+			"file": "dust3.blp"
+		},
+		{
+			"fileDataID": 1394302,
+			"file": "caustic_purp.blp"
+		},
+		{
+			"fileDataID": 1394303,
+			"file": "twistednether5_x.blp"
+		},
+		{
+			"fileDataID": 1394305,
+			"file": "twistednether5.blp"
+		},
+		{
+			"fileDataID": 197069,
+			"file": "worldtreetrunk01.blp"
+		},
+		{
+			"fileDataID": 1412221,
+			"file": "paintedbase_combo.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 503151,
+			"file": "worldtreeportal0100.skin"
+		}
+	],
+	"lodSkins": []
+}
