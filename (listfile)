@@ -2,6 +2,7 @@ Creature\Object\WoodenDummy.blp
 Creature\Wisp\star2_32.blp
 Dungeons\Buildings\7NE_NightElf\Druid\7ne_druid_ceiling01.blp
 Dungeons\Buildings\7NE_NightElf\Druid\7ne_druid_column01.blp
+Dungeons\Buildings\7NE_NightElf\Druid\7ne_druid_extras01.blp
 Dungeons\Buildings\7NE_NightElf\Druid\7ne_druid_extras02.blp
 Dungeons\Buildings\7NE_NightElf\Druid\7ne_druid_extras03.blp
 Dungeons\Buildings\7NE_NightElf\Druid\7ne_druid_extras04.blp
@@ -9,6 +10,7 @@ Dungeons\Buildings\7NE_NightElf\Druid\7ne_druid_extras05.blp
 Dungeons\Buildings\7NE_NightElf\Druid\7ne_druid_extras05_white.blp
 Dungeons\Buildings\7NE_NightElf\Druid\7ne_druid_extras09.blp
 Dungeons\Buildings\7NE_NightElf\Druid\7ne_druid_extras10_white.blp
+Dungeons\Buildings\7NE_NightElf\Druid\7ne_druid_extras13.blp
 Dungeons\Buildings\7NE_NightElf\Druid\7ne_druid_gazebo_cap01.blp
 Dungeons\Buildings\7NE_NightElf\Druid\7ne_druid_gazebo_map01.blp
 Dungeons\Buildings\7NE_NightElf\Druid\7ne_druid_gazebo_map02.blp
@@ -40,6 +42,9 @@ Dungeons\Buildings\7NE_NightElf\Druid_Nightmare\textures\7ne_druid_bridge01_nigh
 Dungeons\Buildings\7NE_NightElf\Druid_Nightmare\textures\7ne_druid_gazebo_map01_nightmare.blp
 Dungeons\Buildings\7NE_NightElf\Druid_OG\7ne_druid_roof01.blp
 Dungeons\Buildings\7NE_NightElf\Valsharah\7ne_druid_bridge01.blp
+Dungeons\Textures\6du_bkfoundry_raid\6du_bkfoundry_slag_orange.blp
+Dungeons\Textures\6du_bkfoundry_raid\6du_bkfoundry_slag_orange_emissive.blp
+Dungeons\Textures\6hu_garrison\6hu_garrison_barn_wood_01.blp
 Dungeons\Textures\6sm_nightelf\6sm_nightelf_moonwell_gate.blp
 Dungeons\Textures\6sm_nightelf\6sm_nightelf_moonwell_gate_002.blp
 Dungeons\Textures\6sm_nightelf\6sm_nightelf_moonwell_rock_center.blp
@@ -50,6 +55,21 @@ Dungeons\Textures\7ne_nightelf\7ne_nightelf_ruins\7ne_broken_grit.blp
 Dungeons\Textures\7ne_nightelf\7ne_nightelf_ruins\7ne_stone_slab.blp
 Dungeons\Textures\7ne_nightelf\7ne_nightelf_ruins\7ne_wall03_b_weathered.blp
 Dungeons\Textures\7ne_nightelf\7ne_nightelf_ruins\7ne_wall_blue_weathered.blp
+Dungeons\Textures\8hu_kultiras\8hu_kultiras_docks_tile02.blp
+Dungeons\Textures\8hu_kultiras\8hu_kultiras_docks_tile02_blend.blp
+Dungeons\Textures\8hu_kultiras\8hu_kultiras_stairs01.blp
+Dungeons\Textures\8hu_kultiras\8hu_kultiras_stonetrim01.blp
+Dungeons\Textures\8swa_turtle\8swa_bone02.blp
+Dungeons\Textures\8swa_turtle\8swa_shell03.blp
+Dungeons\Textures\8swa_turtle\8swa_shell04.blp
+Dungeons\Textures\8swa_turtle\8swa_shell05.blp
+Dungeons\Textures\8swa_turtle\8swa_shell05_dark.blp
+Dungeons\Textures\8swa_turtle\8swa_turtlehead.blp
+Dungeons\Textures\8swa_turtle\8swa_turtlehead02.blp
+Dungeons\Textures\8swa_turtle\8swa_turtlemeat01.blp
+Dungeons\Textures\8swa_turtle\8swa_turtlemeat04.blp
+Dungeons\Textures\8swa_turtle\8swa_turtleskin02.blp
+Dungeons\Textures\8swa_turtle\8swa_turtleskin04.blp
 Dungeons\Textures\8wsg_warsonggulch\8swg_wall01.blp
 Dungeons\Textures\8wsg_warsonggulch\8swg_wall01dark.blp
 Dungeons\Textures\8wsg_warsonggulch\8swg_woodtrims03.blp
@@ -224,6 +244,23 @@ Dungeons\Textures\metal\MM_INFRG_SMALL_METAL_01.blp
 Dungeons\Textures\metal\MM_IRNFG_REDMETAL_01.blp
 Dungeons\Textures\metal\MM_METAL_PLATING_01.blp
 Dungeons\Textures\Metal\Mm_Minerail_01.Blp
+Dungeons\Textures\pandaren\base_houses\eyeballjellyfishmount_saddle.blp
+Dungeons\Textures\pandaren\base_houses\pa_doortrim.blp
+Dungeons\Textures\pandaren\base_houses\pa_inn_floor.blp
+Dungeons\Textures\pandaren\base_houses\pa_pillarcurl.blp
+Dungeons\Textures\pandaren\base_houses\pa_pillardeco.blp
+Dungeons\Textures\pandaren\base_houses\pa_rafters.blp
+Dungeons\Textures\pandaren\base_houses\pa_redpillar.blp
+Dungeons\Textures\pandaren\base_houses\pa_roof.blp
+Dungeons\Textures\pandaren\base_houses\pa_stone_floor_01.blp
+Dungeons\Textures\pandaren\base_houses\pa_stonebrickbase.blp
+Dungeons\Textures\pandaren\base_houses\pa_stonetrim.blp
+Dungeons\Textures\pandaren\base_houses\pa_trim.blp
+Dungeons\Textures\pandaren\base_houses\pa_trim_01.blp
+Dungeons\Textures\pandaren\base_houses\pa_wallbase.blp
+Dungeons\Textures\pandaren\base_houses\pa_wallbase_drk.blp
+Dungeons\Textures\pandaren\base_houses\pa_window.blp
+Dungeons\Textures\pandaren\base_houses\pa_window_e.blp
 Dungeons\Textures\pillar\MM_DRNSS_PILLAR_02.blp
 Dungeons\Textures\pillar\MM_DWRF_PILLAR_01.blp
 Dungeons\Textures\pillar\MM_IRNFG_ENTRY_PILLAR_01.blp
@@ -472,9 +509,13 @@ Dungeons\Textures\wood\ELWYNNPLANKBOTTOM02.blp
 Dungeons\Textures\Wood\Mm_Beam_Side__01X.Blp
 Dungeons\Textures\Wood\Mm_Cask_Side_01.Blp
 Dungeons\Textures\Wood\Mm_Woodroof_01.Blp
+Dungeons\Vehicles\8hu_kultiras_ship\8hu_kultiras_shiptextures\8hu_kultiras_ship_stairs01.blp
 Item\ObjectComponents\Shield\nex_envmap01t.blp
 Item\ObjectComponents\Shield\Shield_Crest_A_01Silver.blp
 Item\ObjectComponents\Shield\shield_garrison_a_01.blp
+Item\ObjectComponents\weapon\armorreflect4.blp
+Item\ObjectComponents\weapon\armorreflect_rainbow.blp
+Item\ObjectComponents\weapon\axe_1h_miningpick_a_01_4421715.blp
 Item\ObjectComponents\weapon\orbreflectbright.blp
 Particles\Intellect128_outline.blp
 Particles\Rune4b.blp
@@ -1285,7 +1326,11 @@ world\azeroth\Elwynn\passivedoodads\elwynnfences\fencepost2.blp
 world\azeroth\Elwynn\passivedoodads\elwynnfences\fencerail2.blp
 world\azeroth\Elwynn\passivedoodads\elwynnfences\stonefencepillar.blp
 world\azeroth\Elwynn\passivedoodads\elwynnfences\stonefencewall.blp
+world\azeroth\Elwynn\passivedoodads\jars\jar01.m2
+world\azeroth\Elwynn\passivedoodads\jars\jar02.m2
 world\azeroth\Elwynn\passivedoodads\jars\jar03.m2
+world\azeroth\Elwynn\passivedoodads\pick\pick.m2
+world\azeroth\Elwynn\passivedoodads\shovel\shovel.m2
 world\azeroth\Elwynn\passivedoodads\Skeleton\battlegladeboneshumandark.m2
 world\azeroth\Elwynn\passivedoodads\Skeleton\battlegladebskeletonhumandark.m2
 world\azeroth\Elwynn\passivedoodads\Skeleton\battlegladeskullhumandark.m2
@@ -1395,12 +1440,16 @@ world\azeroth\swamposorrow\passivedoodads\plants\swampreeds01a.blp
 world\azeroth\swamposorrow\passivedoodads\swampreeds01a.blp
 world\azeroth\swamposorrow\passivedoodads\vines\stranglebrownvine01_256.blp
 world\azeroth\swamposorrow\passivedoodads\vines\stranglethornlongvine02.blp
+world\azeroth\TheBlastedLands\passivedoodads\bones\blastedcow03.blp
+world\azeroth\TheBlastedLands\passivedoodads\bones\blastedlandsblastedmule.m2
 world\azeroth\TheBlastedLands\passivedoodads\bones\blastedlandsbone01.m2
 world\azeroth\TheBlastedLands\passivedoodads\bones\blastedlandsbonepile02.m2
 world\azeroth\TheBlastedLands\passivedoodads\bones\blastedlandsbonepile03.m2
 world\azeroth\TheBlastedLands\passivedoodads\bones\blastedlandsskull01.m2
 world\azeroth\TheBlastedLands\passivedoodads\bones\blastedlandsskull02.m2
 world\azeroth\TheBlastedLands\passivedoodads\bones\blastedlandsspine01.m2
+world\azeroth\westfall\passivedoodads\barrel\westfallbarrel01.m2
+world\azeroth\westfall\passivedoodads\crate\westfallcrate.m2
 world\azeroth\westfall\passivedoodads\deadmule\deadmule.m2
 world\azeroth\westfall\passivedoodads\deadmule\mule.blp
 world\azeroth\westfall\passivedoodads\detail\westfallbush01.m2
@@ -1416,12 +1465,18 @@ world\azeroth\westfall\passivedoodads\trees\westfalltree02.m2
 world\azeroth\westfall\passivedoodads\trees\westfalltree03.m2
 world\azeroth\westfall\passivedoodads\trees\westfalltree04.m2
 world\azeroth\westfall\passivedoodads\trees\westfalltreecanopy01.m2
+world\azeroth\westfall\passivedoodads\utensils\bowl.m2
+world\azeroth\westfall\passivedoodads\utensils\stein.m2
 world\azeroth\westfall\passivedoodads\WestfallSkeleton\westfallskeleton.m2
+world\azeroth\westfall\passivedoodads\WreckedRowboat\wreckedrowboat.m2
 world\azeroth\ZulGurub\ActiveDoodads\MainDoor\ZulGurubMainDoor.blp
 world\azeroth\ZulGurub\PassiveDoodads\Cauldrons\firespark.blp
 world\Dungeon\cave\passivedoodads\stalagtite\stalagtite01.m2
 world\Dungeon\cave\passivedoodads\stalagtite\stalagtite02.m2
 world\Dungeon\CavernsofTime\PassiveDoodads\DarkPortal\glowball.blp
+world\Dungeon\GoldshireInn\InnBed\innbed.m2
+world\Dungeon\GoldshireInn\InnBedCanopy\innbedcanopy.m2
+world\Dungeon\GoldshireInn\InnChandelier\innchandelier.m2
 world\Dungeon\ScarletMonastery\PassiveDoodads\fountains\fishfountain.blp
 world\Dungeon\ScarletMonastery\PassiveDoodads\fountains\FishFountain.M2
 world\Dungeon\ScarletMonastery\PassiveDoodads\Statues\FountainNew.blp
@@ -1429,7 +1484,12 @@ world\Dungeon\ScarletMonastery\PassiveDoodads\Statues\FountainStatueNew.blp
 world\Dungeon\ScarletMonastery\PassiveDoodads\Statues\sm_crusadersoldier.blp
 world\Dungeon\ScarletMonastery\PassiveDoodads\Statues\StatueFountain.M2
 world\Dungeon\ScarletMonastery\PassiveDoodads\Statues\StatueHMCrusaderSoldier.M2
+world\ENVIRONMENT\DOODAD\7.0\valsharah\trees\texture\7vs_ancienttree_leaves_green.blp
+world\ENVIRONMENT\DOODAD\7.0\valsharah\trees\texture\7vs_grovetree_bark_02.blp
+world\ENVIRONMENT\DOODAD\7.0\valsharah\trees\texture\7vs_grovetree_sapplings_leaves.blp
+world\ENVIRONMENT\DOODAD\7.0\valsharah\trees\texture\7vs_treetrunk_bigold_01b.blp
 world\ENVIRONMENT\DOODAD\Furbolg\loghouses\7fb_furbolg_loghouse01.blp
+world\ENVIRONMENT\DOODAD\GENERALDOODADS\bones\max\phillip\6fw_bone_ribcage_02.blp
 world\ENVIRONMENT\DOODAD\GENERALDOODADS\ELEMENTALRIFTS\CLOUDS8X8GREY.BLP
 world\ENVIRONMENT\DOODAD\KALIDAR\TREES\TEXTURE\BRIAN\PURPLE\KALIDARGIANTTREETRUNK01.blp
 world\ENVIRONMENT\DOODAD\MOONGLADE\BRIDGE\TEXTURES\MOONGLADEBRIDGE02.blp
@@ -1520,6 +1580,7 @@ world\EXPANSION03\DOODADS\Generic\ElementiumOre\ELEMENTIUM_0RE_01_MASK.BLP
 world\EXPANSION03\DOODADS\LOSTISLES\WATERFALLS\LOSTISLES_WATERFALL01.blp
 world\EXPANSION03\DOODADS\LOSTISLES\WATERFALLS\LOSTISLES_WATERFALLALPHA01.blp
 world\EXPANSION03\DOODADS\LOSTISLES\WATERFALLS\LOSTISLES_WATERFALLALPHA02.blp
+world\EXPANSION03\DOODADS\Skywall\skywall_blueglow_01.blp
 world\EXPANSION03\DOODADS\TwilightHammer\Lamppost\T_VFX_SMOKE_CREEPY_INVERT.BLP
 world\EXPANSION03\DOODADS\twilighthighlands\bushes\twilighthighlands_bush03.blp
 world\EXPANSION03\DOODADS\Worgen\Fences\Worgen_WoodFence_01.blp
@@ -1592,12 +1653,16 @@ world\expansion05\doodads\fx\smoke_generic_paintymask01_blend.blp
 world\expansion05\doodads\fx\smoke_puffy_mask_blendadd.blp
 world\expansion05\doodads\fx\t_vfx_fire_anim_stylized_desat_02.blp
 world\expansion05\doodads\fx\white8x8.blp
+world\expansion05\doodads\HUMAN\DOODADS\6hu_barracks_woodtablesmall.m2
 world\expansion05\doodads\HUMAN\DOODADS\6HU_BARREL_CRATE_TEXTURE.blp
 world\expansion05\doodads\HUMAN\DOODADS\6HU_Dummy.blp
 world\expansion05\doodads\HUMAN\DOODADS\6hu_garrison_bricks.blp
 world\expansion05\doodads\HUMAN\DOODADS\6hu_garrison_bs_anvil_texture.blp
 world\expansion05\doodads\HUMAN\DOODADS\6hu_garrison_bs_forge_texture.blp
+world\expansion05\doodads\HUMAN\DOODADS\6hu_garrison_bs_tools_texture.blp
 world\expansion05\doodads\HUMAN\DOODADS\6hu_garrison_enchanting_jars_texture.blp
+world\expansion05\doodads\HUMAN\DOODADS\6hu_garrison_enchanting_shelving_texture.blp
+world\expansion05\doodads\HUMAN\DOODADS\6hu_garrison_farm_bucket.blp
 world\expansion05\doodads\HUMAN\DOODADS\6hu_garrison_farm_grainsack01.m2
 world\expansion05\doodads\HUMAN\DOODADS\6hu_garrison_farm_sacks.blp
 world\expansion05\doodads\HUMAN\DOODADS\6HU_GARRISON_FARM_WELL.BLP
@@ -1619,13 +1684,16 @@ world\expansion05\doodads\HUMAN\DOODADS\6HU_INN_TABLESMALL.blp
 world\expansion05\doodads\HUMAN\DOODADS\6hu_jewelcrafting_handtools.blp
 world\expansion05\doodads\HUMAN\DOODADS\6hu_jewelcrafting_tool3.m2
 world\expansion05\doodads\HUMAN\DOODADS\6hu_jewelcrafting_tool5.m2
+world\expansion05\doodads\HUMAN\DOODADS\6hu_lumbermill_map3.blp
 world\expansion05\doodads\HUMAN\DOODADS\6hu_lumbermill_map6.blp
 world\expansion05\doodads\HUMAN\DOODADS\6HU_Outhouse.blp
+world\expansion05\doodads\HUMAN\DOODADS\6hu_rug.blp
 world\expansion05\doodads\HUMAN\DOODADS\Ember.blp
 world\expansion05\doodads\HUMAN\DOODADS\fire_2x2_sharp_mod4x.blp
 world\expansion05\doodads\HUMAN\DOODADS\fire_bright_mod2x_a.blp
 world\expansion05\doodads\HUMAN\DOODADS\GlowBall.blp
 world\expansion05\doodads\HUMAN\DOODADS\GlowOrange32.blp
+world\expansion05\doodads\HUMAN\DOODADS\lantern05.blp
 world\expansion05\doodads\HUMAN\DOODADS\map1-d.blp
 world\expansion05\doodads\HUMAN\DOODADS\MiscJunk01-SPEC.blp
 world\expansion05\doodads\HUMAN\DOODADS\Nex_EnvMap01t.blp
@@ -1645,7 +1713,10 @@ world\expansion05\doodads\newgryphoneroost.blp
 world\expansion05\doodads\newwyvernroost.blp
 world\expansion05\doodads\Ogre\6og_ogre_haypile_flat.blp
 world\expansion05\doodads\Ogre\6og_ogre_haypile_flat.m2
+world\expansion05\doodads\Orc\Doodads\6or_barracks_map7.blp
 world\expansion05\doodads\Orc\Doodads\6or_barrelsack01.blp
+world\expansion05\doodads\Orc\Doodads\6or_inn_map2.blp
+world\expansion05\doodads\Orc\Doodads\6or_jewelcrafting_extras01.blp
 world\expansion05\doodads\Orc\Doodads\6or_magetower_banner.blp
 world\expansion05\doodads\Orc\Doodads\6OR_MAILBOX_ALPHA.BLP
 world\expansion05\doodads\Orc\Doodads\6OR_MAILBOX_SPEC.BLP
@@ -1696,8 +1767,14 @@ world\expansion06\doodads\araknashal\7an_aspenleaves_01_lod.blp
 world\expansion06\doodads\araknashal\7an_mushroom01.blp
 world\expansion06\doodads\araknashal\7an_pinetreebark_01.blp
 world\expansion06\doodads\araknashal\7an_pinetreeleaves_01.blp
+world\expansion06\doodads\artifact\7af_paladin_lights.blp
 world\expansion06\doodads\artifact\7af_rogue_map15.blp
+world\expansion06\doodads\artifact\7af_rogue_map26.blp
+world\expansion06\doodads\artifact\7af_rogue_map27.blp
 world\expansion06\doodads\artifact\7af_shaman_windchimes.blp
+world\expansion06\doodads\artifact\7nb_nightborn_glowalpha.blp
+world\expansion06\doodads\artifact\7wd_warden_candleflame.blp
+world\expansion06\doodads\artifact\nex_envmap03.blp
 world\expansion06\doodads\aszuna\7az_forestivy_02.blp
 world\expansion06\doodads\aszuna\7az_ivy01.blp
 world\expansion06\doodads\aszuna\7az_ivy_a01.m2
@@ -1713,6 +1790,7 @@ world\expansion06\doodads\aszuna\7az_ivybush_b01.m2
 world\expansion06\doodads\dalaran\7dl_dalaran_herbalismplanter01.m2
 world\expansion06\doodads\dalaran\7dl_dalaran_shelves01.blp
 world\expansion06\doodads\dalaran\7sr_dirt01_512.blp
+world\expansion06\doodads\dalaran\shirtbrown.blp
 world\expansion06\doodads\Forsaken\7fk_batroost.blp
 world\expansion06\doodads\Forsaken\forsaken_metal.blp
 world\expansion06\doodads\furbolg\7fb_furbolg_beads.blp
@@ -1733,6 +1811,12 @@ world\expansion06\doodads\highmountain\7hm_pinetree02.blp
 world\expansion06\doodads\highmountain\7hm_redmushroom01.blp
 world\expansion06\doodads\highmountain\7hm_stump01.blp
 world\expansion06\doodads\hippogryph\7hg_hippogryph_d.blp
+world\expansion06\doodads\Kobold\7ko_kobbold_trash_items2.blp
+world\expansion06\doodads\Kobold\nex_envmap01t.blp
+world\expansion06\doodads\murloc\7mu_murloc_map11.blp
+world\expansion06\doodads\murloc\7mu_murloc_map12.blp
+world\expansion06\doodads\murloc\7mu_murloc_map5.blp
+world\expansion06\doodads\murloc\7mu_murloc_map7.blp
 world\expansion06\doodads\nightborn\7nb_nightborn_archwinebottle03.m2
 world\expansion06\doodads\nightborn\7nb_nightborn_books.blp
 world\expansion06\doodads\nightborn\7nb_nightborn_floorpillow01.m2
@@ -1770,6 +1854,7 @@ world\expansion06\doodads\nightelf\7nb_nightborn_pillowpile03_wall.m2
 world\expansion06\doodads\nightelf\7nb_nightborn_pillowpile04.m2
 world\expansion06\doodads\nightelf\7nb_nightborn_pillowpile04_wall.m2
 world\expansion06\doodads\nightelf\7nb_nightborn_shiprug01.m2
+world\expansion06\doodads\nightelf\7ne_academy_arch_weathered.blp
 world\expansion06\doodads\nightelf\7ne_academy_rubble_brown.blp
 world\expansion06\doodads\nightelf\7ne_ancient_benches.blp
 world\expansion06\doodads\nightelf\7ne_ancient_leyline_glowball.m2
@@ -1910,6 +1995,7 @@ world\expansion06\doodads\nightelf\7ne_nightelf_plate01.m2
 world\expansion06\doodads\nightelf\7ne_nightelf_rubble04.blp
 world\expansion06\doodads\nightelf\7ne_nightelf_scroll01.m2
 world\expansion06\doodads\nightelf\7ne_nightelf_scrollbundle01.m2
+world\expansion06\doodads\nightelf\7ne_nightelf_tombstone02.blp
 world\expansion06\doodads\nightelf\7ne_nightelf_urns01.blp
 world\expansion06\doodads\nightelf\7ne_nightelf_wisp.blp
 world\expansion06\doodads\nightelf\7ne_nightelf_wisp01.m2
@@ -1946,6 +2032,8 @@ world\expansion06\doodads\nightelf\t_vfx_glow01.blp
 world\expansion06\doodads\nightelf\water_alpha.blp
 world\expansion06\doodads\nightelf\water_glow.blp
 world\expansion06\doodads\nightelf\wispsoft.blp
+world\expansion06\doodads\SeaGiant\7sg_seagiant_map03.blp
+world\expansion06\doodads\SeaGiant\nex_envmap01t.blp
 world\expansion06\doodads\stormwind\7SW_Stormwind_FuneraryBanner.blp
 world\expansion06\doodads\stormwind\lionstatue3.blp
 world\expansion06\doodads\Tauren\7tr_tauren_cornbag_l.blp
@@ -2078,16 +2166,59 @@ world\expansion07\doodads\darkshore\stm_warfronts_treebark_burnt.blp
 world\expansion07\doodads\darkshore\stm_warfronts_treecanopies_burnt.blp
 world\expansion07\doodads\desertzone\8des_monkeytreebranch001.blp
 world\expansion07\doodads\desertzone\8des_monkeytreetrunk003.blp
+world\expansion07\doodads\dungeon\doodads\8du_waycrest_bigbedbase01.blp
+world\expansion07\doodads\dungeon\doodads\8du_waycrest_bigbedmattress01.blp
+world\expansion07\doodads\dungeon\doodads\8du_waycrest_bigbedtop01.blp
+world\expansion07\doodads\dungeon\doodads\8du_waycrest_chair01.blp
+world\expansion07\doodads\dungeon\doodads\8du_waycrest_paintings01.blp
+world\expansion07\doodads\dungeon\doodads\8du_waycrest_paintings02.blp
+world\expansion07\doodads\dungeon\doodads\8du_waycrest_paintingspack05.blp
+world\expansion07\doodads\dungeon\doodads\8hu_kultiras_bedmap03.blp
 world\expansion07\doodads\ember_chunky_blankmorerotation_a.blp
 world\expansion07\doodads\fire_flamelicks_dissolvefbs_blend.blp
 world\expansion07\doodads\genericglow_alpha_128.blp
+world\expansion07\doodads\human\7dl_dalaran_kitchenfire01.blp
+world\expansion07\doodads\human\7dl_dalaran_kitchenfire01_glow.blp
+world\expansion07\doodads\human\8hu_fishingnet.blp
+world\expansion07\doodads\human\8hu_human_bookshelf_2832031.blp
+world\expansion07\doodads\human\8hu_human_bookshelf_2832032.blp
+world\expansion07\doodads\human\8hu_kultiras_bar01.m2
+world\expansion07\doodads\human\8hu_kultiras_barrels01.blp
+world\expansion07\doodads\human\8hu_kultiras_bartop_map01.blp
+world\expansion07\doodads\human\8hu_kultiras_chest01.blp
+world\expansion07\doodads\human\8hu_kultiras_chest01_texture.blp
+world\expansion07\doodads\human\8hu_kultiras_glowalpha.blp
+world\expansion07\doodads\human\8hu_kultiras_hanginglantern01.m2
 world\expansion07\doodads\human\8hu_kultiras_haybale02.m2
 world\expansion07\doodads\human\8hu_kultiras_haystack_dif.blp
+world\expansion07\doodads\human\8hu_kultiras_mausoleum_map14.blp
+world\expansion07\doodads\human\8hu_kultiras_mausoleum_map14_glow.blp
+world\expansion07\doodads\human\8hu_kultiras_pigfarmcrate.blp
+world\expansion07\doodads\human\8hu_kultiras_pigfarmsacks.blp
+world\expansion07\doodads\human\8hu_kultiras_platemap01.blp
 world\expansion07\doodads\human\8hu_threshacorpse_01.blp
+world\expansion07\doodads\human\cloud_puffy_mod.blp
+world\expansion07\doodads\human\cloud_puffysofter_mod4x.blp
+world\expansion07\doodads\human\cloud_wispysoft_mod4x.blp
+world\expansion07\doodads\human\ember_offset_streak.blp
+world\expansion07\doodads\human\fire_bright_mod2x_a.blp
+world\expansion07\doodads\human\goldpilebase01_hd.blp
+world\expansion07\doodads\human\smoke_puffy_mask.blp
+world\expansion07\doodads\human\smoke_wispy_mask_blend.blp
+world\expansion07\doodads\human\t_vfx_fire_anim_stylized_desat_02.blp
+world\expansion07\doodads\human\t_vfx_smokeanim01_blured.blp
 world\expansion07\doodads\lordaeron\8xp_lordaeronburnttreetrunk01.blp
 world\expansion07\doodads\nazjatar\8ne_nazjatar_pillar01_0_2438953.blp
 world\expansion07\doodads\nazjatar\8ng_nazjatar_fishskeletonbones_medium03_0_2734951.blp
 world\expansion07\doodads\nazjatar\8ng_nazjatar_fishskeletonbones_small01_0_2734969.blp
+world\expansion07\doodads\nazjatar\8nzj_barnacleclump_c01.m2
+world\expansion07\doodads\nazjatar\8nzj_barnacleclump_c01_0_2238306.blp
+world\expansion07\doodads\nazjatar\8nzj_barnacleclump_c02.m2
+world\expansion07\doodads\nazjatar\8nzj_hangingkelp_a01.m2
+world\expansion07\doodads\nazjatar\8nzj_hangingkelp_a02.m2
+world\expansion07\doodads\nazjatar\8nzj_hangingkelp_a03.m2
+world\expansion07\doodads\nazjatar\8nzj_hangingkelpbush_a01.m2
+world\expansion07\doodads\nazjatar\8nzj_shorekelp_a01_0_2314807.blp
 world\expansion07\doodads\nightelf\8ne_nightelf_warfronts_bow01.m2
 world\expansion07\doodads\nightelf\8ne_nightelf_warfronts_glaive01.m2
 world\expansion07\doodads\nightelf\8ne_nightelf_warfronts_staff01.m2
@@ -2141,9 +2272,14 @@ world\expansion07\doodads\zuldazarzone\8zul_tallflower_01.blp
 world\expansion07\doodads\zuldazarzone\8zul_tallgrass_01.blp
 world\expansion08\doodads\maw\9mw_domination_legendaryarmor_chest01_3740653.blp
 world\expansion08\doodads\maw\metal_reflect.blp
+world\expansion08\doodads\vampire\9vm_vampire_wheelbarrow02_3255539.blp
 world\expansion09\doodads\10xp_alliance_weaponrack02_4626089.blp
+world\expansion09\doodads\10xp_bearrug_5009371.blp
 world\expansion09\doodads\10xp_boots01.m2
 world\expansion09\doodads\10xp_boots01_5041714.blp
+world\expansion09\doodads\10xp_gnomishtable01_4508246.blp
+world\expansion09\doodads\10xp_gunpowderbarrel01_4619269.blp
+world\expansion09\doodads\10xp_gunpowderbarrel01_4619272.blp
 world\expansion09\doodads\10xp_nightelf_sails01.m2
 world\expansion09\doodads\10xp_nightelf_sails01_4402988.blp
 world\expansion09\doodads\10xp_nightelf_sails01_4402990.blp
@@ -2154,8 +2290,12 @@ world\expansion09\doodads\bones\10xp_skeleton28_4908086.blp
 world\expansion09\doodads\centaur\10ct_centaur_basket01_4214671.blp
 world\expansion09\doodads\centaur\10ct_centaur_bowhanging01_4559667.blp
 world\expansion09\doodads\centaur\10ct_centaur_cart04_full01_4214686.blp
+world\expansion09\doodads\centaur\10ct_centaur_cookingfire05_4504737.blp
 world\expansion09\doodads\centaur\10ct_centaur_quiver01.m2
 world\expansion09\doodads\centaur\10ct_centaur_quiver01_4567036.blp
+world\expansion09\doodads\centaur\armorreflect_hard_orange.blp
+world\expansion09\doodads\dungeon\10du_uldaman_excavation_miningpick01_3806694.blp
+world\expansion09\doodads\dungeon\10du_uldaman_excavation_pillar02_3797832.blp
 world\expansion09\doodads\emeralddream\10ed_emeralddream_bearstatue.m2
 world\expansion09\doodads\emeralddream\10ed_emeralddream_bearstatue_5223614.blp
 world\expansion09\doodads\emeralddream\10ed_emeralddream_birdstatue.m2
@@ -2174,8 +2314,14 @@ world\expansion09\doodads\explorersleague\10el_explorersleague_barrel02_4239595.
 world\expansion09\doodads\explorersleague\10el_explorersleague_boxstack03_4252503.blp
 world\expansion09\doodads\explorersleague\10el_explorersleague_globe01.m2
 world\expansion09\doodads\explorersleague\10el_explorersleague_globe01_4257543.blp
+world\expansion09\doodads\explorersleague\10el_explorersleague_mediumtent02_4219011.blp
+world\expansion09\doodads\explorersleague\10el_explorersleague_mediumtent02_4219033.blp
+world\expansion09\doodads\explorersleague\10el_explorersleague_smalltent03_4219004.blp
+world\expansion09\doodads\explorersleague\10el_explorersleague_smalltent04_4661457.blp
+world\expansion09\doodads\explorersleague\10el_explorersleague_waterbucket02_4227911.blp
 world\expansion09\doodads\explorersleague\armorreflect_hard_orange.blp
 world\expansion09\doodads\exterior\10xp_mushroomsdarkgreen03_4519865.blp
+world\expansion09\doodads\festival\10xp_wreath_white01_5479909.blp
 world\expansion09\doodads\furbolg\10fb_furbolg_totem01_4626108.blp
 world\expansion09\doodads\gnoll\10gl_gnoll_cage04_4064370.blp
 world\expansion09\doodads\gnoll\10gl_gnoll_cage04_4069343.blp
@@ -2230,6 +2376,7 @@ world\expansion09\doodads\nightelf\10ne_nightelf_well_4763983.blp
 world\expansion09\doodads\nightelf\10ne_nightelf_well_4763984.blp
 world\expansion09\doodads\nightelf\armorreflect4.blp
 world\expansion09\doodads\nightelf\genericglow_alpha_128.blp
+world\expansion09\doodads\profession\10pr_alchemytable01_4680019.blp
 world\expansion09\doodads\t_wallweapons.blp
 world\expansion09\doodads\volcanic\10can_beachfillerbush_b02_4215645.blp
 world\expansion09\doodads\volcanic\10can_rock_c05_4004995.blp
@@ -2243,6 +2390,8 @@ world\expansion10\doodads\11xp_mushroom_green06_5456702.blp
 world\expansion10\doodads\11xp_rock_stalagtite04_5517181.blp
 world\expansion10\doodads\11xp_rock_stalagtite04_5517183.blp
 world\expansion10\doodads\arathor\11at_arathor_rope08_5517262.blp
+world\expansion10\doodads\goblin\11go_goblin_toolwrench_6117423.blp
+world\Generic\Activedoodads\chest02\chest02.m2
 world\Generic\Activedoodads\InstancePortal\dust6.blp
 world\Generic\Activedoodads\InstancePortal\InstancePortal.M2
 world\Generic\Activedoodads\InstancePortal\InstancePortal_Green.M2
@@ -2259,6 +2408,7 @@ world\Generic\Dwarf\Passive Doodads\Battlements\TowerTrim01.blp
 world\Generic\Dwarf\Passive Doodads\Battlements\towertrimsnowy 01.blp
 world\Generic\Dwarf\Passive Doodads\Beds\DwarvenBedQuilt.blp
 world\Generic\Dwarf\Passive Doodads\Beds\DwarvenBookShelfBase.blp
+world\Generic\Dwarf\Passive Doodads\ExcavationTentPavillion\excavationtentpavillion.m2
 world\Generic\Dwarf\Passive Doodads\GunRacks\DwarvenRifle01.blp
 world\Generic\Dwarf\Passive Doodads\GunRacks\DwarvenTargetRangeBoard.blp
 world\Generic\Dwarf\Passive Doodads\Lanterns\hanginglantern01.blp
@@ -2301,6 +2451,7 @@ world\Generic\Dwarf\Passive Doodads\Signs\DWARFSIGN_WEAPONS.blp
 world\Generic\Dwarf\Passive Doodads\Signs\DWARFSIGN_WINERY.blp
 world\Generic\Dwarf\Passive Doodads\Tables\DwarvenTableBase.blp
 world\Generic\Dwarf\Passive Doodads\Tables\DwarvenTablesSimple01.blp
+world\Generic\Dwarf\Passive Doodads\TavernStuff\grainsacs02.m2
 world\Generic\Gnome\Activedoodads\gnomemachine\yellow_star_dim.blp
 world\Generic\Goblin\PassiveDoodads\GoblinMachinery\bottleGreen.blp
 world\Generic\Goblin\PassiveDoodads\Kezan\Items\TOONCLOUD64B.BLP
@@ -2316,27 +2467,46 @@ world\Generic\HUMAN\PASSIVE DOODADS\AnimalHeads\TallStriderSkinGray.blp
 world\Generic\HUMAN\PASSIVE DOODADS\armor\armorbreastplategreen.m2
 world\Generic\HUMAN\PASSIVE DOODADS\armor\armorstand.m2
 world\Generic\HUMAN\PASSIVE DOODADS\armor\armorstandmailblue.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Artwork\stormwindpainting03.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Artwork\stormwindpainting05.m2
 world\Generic\HUMAN\PASSIVE DOODADS\Banners\Stormwind_Funeraryer.blp
 world\Generic\HUMAN\PASSIVE DOODADS\Banners\StormwindLionBanner.M2
 world\Generic\HUMAN\PASSIVE DOODADS\Beds\BunkBed01.M2
+world\Generic\HUMAN\PASSIVE DOODADS\BeerKegs\beerkeg01.m2
+world\Generic\HUMAN\PASSIVE DOODADS\BeerKegs\beerkeg02.m2
 world\Generic\HUMAN\PASSIVE DOODADS\Benches\bench01.blp
 world\Generic\HUMAN\PASSIVE DOODADS\Benches\Innbench.M2
 world\Generic\HUMAN\PASSIVE DOODADS\Books\bookmedium01.m2
 world\Generic\HUMAN\PASSIVE DOODADS\Books\bookmedium02.m2
 world\Generic\HUMAN\PASSIVE DOODADS\Books\bookmediumopen03.m2
 world\Generic\HUMAN\PASSIVE DOODADS\Books\booksmallopen01.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Bookshelves\abbeyshelf01.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Bookshelves\duskwoodbookshelf02.m2
 world\Generic\HUMAN\PASSIVE DOODADS\Bookstacks\generalbookstackshort01.M2
 world\Generic\HUMAN\PASSIVE DOODADS\Bookstacks\generalbookstacktall01.M2
+world\Generic\HUMAN\PASSIVE DOODADS\Bottles\greenbottle02.m2
 world\Generic\HUMAN\PASSIVE DOODADS\BRAZIERS\GENERICGLOWX.BLP
+world\Generic\HUMAN\PASSIVE DOODADS\Buckets\cavekoboldbucket.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Candelabras\generalcandelabra01.m2
 world\Generic\HUMAN\PASSIVE DOODADS\cargoboxes\deadminecargoboxes.m2
+world\Generic\HUMAN\PASSIVE DOODADS\CargoNets\deadminecargonethangshort.m2
 world\Generic\HUMAN\PASSIVE DOODADS\Chairs\Generalchairloend01.M2
 world\Generic\HUMAN\PASSIVE DOODADS\Chairs\GeneralMedChair01.M2
 world\Generic\HUMAN\PASSIVE DOODADS\Chairs\Woodchair01.blp
+world\Generic\HUMAN\PASSIVE DOODADS\Clothing\bootsleatherdark.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Clothing\hangingshirtbrown.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Clothing\shirtbrown.blp
 world\Generic\HUMAN\PASSIVE DOODADS\CRATES\STORMWINDCRATE01.M2
 world\Generic\HUMAN\PASSIVE DOODADS\Cups\rag_01.blp
+world\Generic\HUMAN\PASSIVE DOODADS\deadminepowderkeg\deadminepowderkeg.m2
 world\Generic\HUMAN\PASSIVE DOODADS\Drapery\mm_canopy_side_01.blp
 world\Generic\HUMAN\PASSIVE DOODADS\Drapery\mm_knob.blp
+world\Generic\HUMAN\PASSIVE DOODADS\Firewood\_firewoodpile01.m2
 world\Generic\HUMAN\PASSIVE DOODADS\Firewood\firewoodpile03.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Flowers\flowerswreath02.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Food&Utensils\cleaver01.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Food&Utensils\haunch.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Food&Utensils\turkeyleg.m2
 world\Generic\HUMAN\PASSIVE DOODADS\Fountains\StormwindFountain01.M2
 world\Generic\HUMAN\PASSIVE DOODADS\Fountains\stormwindfountian_inside.blp
 world\Generic\HUMAN\PASSIVE DOODADS\Fountains\stormwindfountian_insidesm.blp
@@ -2344,6 +2514,7 @@ world\Generic\HUMAN\PASSIVE DOODADS\Fountains\stormwindfountianbase.blp
 world\Generic\HUMAN\PASSIVE DOODADS\Fountains\stormwindlady_1.blp
 world\Generic\HUMAN\PASSIVE DOODADS\Gryphonroost\GryphonRoost01.M2
 world\Generic\HUMAN\PASSIVE DOODADS\GypsyWagons\stormwindgypsywagon01.m2
+world\Generic\HUMAN\PASSIVE DOODADS\HangingLanterns\generalhanginglantern01.m2
 world\Generic\HUMAN\PASSIVE DOODADS\HayPiles\darkhaypilemedium01.m2
 world\Generic\HUMAN\PASSIVE DOODADS\Lampposts\duskwoodlamppost.M2
 world\Generic\HUMAN\PASSIVE DOODADS\Lampposts\duskwoodlamppostbroken.M2
@@ -2352,16 +2523,24 @@ world\Generic\HUMAN\PASSIVE DOODADS\Lamps\streetlamp.blp
 world\Generic\HUMAN\PASSIVE DOODADS\Lamps\tirisfall_lamp_window_02.blp
 world\Generic\HUMAN\PASSIVE DOODADS\Lamps\tirisfallstreetlamp.blp
 world\Generic\HUMAN\PASSIVE DOODADS\Lamps\TirisfallStreetLamp01.M2
+world\Generic\HUMAN\PASSIVE DOODADS\Lanterns\generallantern01.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Lanterns\generallantern03.m2
 world\Generic\HUMAN\PASSIVE DOODADS\lumberpiles\lumberpile01.blp
 world\Generic\HUMAN\PASSIVE DOODADS\Meat\bloodymeat01.m2
 world\Generic\HUMAN\PASSIVE DOODADS\Meat\bloodymeat02.m2
 world\Generic\HUMAN\PASSIVE DOODADS\miningsifters\miningsifter01.m2
 world\Generic\HUMAN\PASSIVE DOODADS\miningsifters\miningsifter02.m2
 world\Generic\HUMAN\PASSIVE DOODADS\Mugs\mug01.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Mugs\mug02.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Mugs\stein01.m2
 world\Generic\HUMAN\PASSIVE DOODADS\PlanterBoxes\ElwynnFlower03a.blp
 world\Generic\HUMAN\PASSIVE DOODADS\PlanterBoxes\PlanterBox.blp
 world\Generic\HUMAN\PASSIVE DOODADS\PlanterBoxes\StormwindPlanter.blp
+world\Generic\HUMAN\PASSIVE DOODADS\Plates\generaldirtyplate01.m2
 world\Generic\HUMAN\PASSIVE DOODADS\Ropes\cavekoboldropecoil.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Rugs\generalbearskinrug01.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Rugs\stormwindrug01.m2
+world\Generic\HUMAN\PASSIVE DOODADS\Rugs\stormwindrug02.m2
 world\Generic\HUMAN\PASSIVE DOODADS\Signs\AlchemistsShop01.M2
 world\Generic\HUMAN\PASSIVE DOODADS\Signs\ArmorerShop01.M2
 world\Generic\HUMAN\PASSIVE DOODADS\Signs\BakerShop01.M2
@@ -2407,6 +2586,7 @@ world\Generic\HUMAN\PASSIVE DOODADS\STORMWIND\T_VFX_Glow01_64.blp
 world\Generic\HUMAN\PASSIVE DOODADS\Tables\DuskwoodFurniture01.blp
 world\Generic\HUMAN\PASSIVE DOODADS\Tables\Inntable.M2
 world\Generic\HUMAN\PASSIVE DOODADS\Tables\Inntablesmall.M2
+world\Generic\HUMAN\PASSIVE DOODADS\Tables\inntabletiny.m2
 world\Generic\HUMAN\PASSIVE DOODADS\THRONE\orbreflectdarker.blp
 world\Generic\HUMAN\PASSIVE DOODADS\THRONE\OrbReflectDarkerGrey.blp
 world\Generic\HUMAN\PASSIVE DOODADS\VIALS\WHITERINGNOISE128.BLP
@@ -2443,6 +2623,11 @@ world\Generic\NightElf\Passive Doodads\Pottery\elvenpottery01.m2
 world\Generic\NightElf\Passive Doodads\Pottery\elvenpottery02.m2
 world\Generic\NightElf\Passive Doodads\Pottery\elvenpottery03.m2
 world\Generic\NightElf\Passive Doodads\Pottery\elvenpottery04.m2
+world\Generic\NightElf\Passive Doodads\Ruins\azrelfruin01.m2
+world\Generic\NightElf\Passive Doodads\Ruins\azrelfruin03.m2
+world\Generic\NightElf\Passive Doodads\Ruins\azrelfruin05.m2
+world\Generic\NightElf\Passive Doodads\Ruins\azrelfruin07.m2
+world\Generic\NightElf\Passive Doodads\Ruins\azrelfruin08.m2
 world\Generic\NightElf\Passive Doodads\Ruins\nightelfruins01.m2
 world\Generic\NightElf\Passive Doodads\Ruins\nightelfruins02.m2
 world\Generic\NightElf\Passive Doodads\Ruins\nightelfruins03.m2
@@ -2554,6 +2739,7 @@ world\Generic\Orc\Passive Doodads\Signs\ORCSIGN_WINERY.blp
 world\Generic\Orc\Passive Doodads\Signs\OrcSign_Wyvern.blp
 world\Generic\Orc\Passive Doodads\Tents\OrcTent.blp
 world\Generic\Orc\Passive Doodads\Tents\OrcTent02.blp
+world\Generic\Orc\Passive Doodads\Weapons\orcsword03.m2
 world\Generic\Orc\Passive Doodads\Wyvernroost\WyvernRoost01.M2
 world\Generic\Owlbear\owlbearhangingtotem01.m2
 world\Generic\Owlbear\OwlbearTotems\OwlbearScarecrow01.m2
@@ -2561,6 +2747,7 @@ world\Generic\Passive Doodads\WantedPosters\newwantedposter01.m2
 world\Generic\PassiveDoodads\Barrel\Barrel01.M2
 world\Generic\PassiveDoodads\Barrel\Barrel04dark2.blp
 world\Generic\PassiveDoodads\Barrel\BarrelLowPoly.M2
+world\Generic\PassiveDoodads\Barrel\brokenbarrel01.m2
 world\Generic\PassiveDoodads\Christmas\bm_Xmas_gift01.blp
 world\Generic\PassiveDoodads\Christmas\bm_Xmas_gift02.blp
 world\Generic\PassiveDoodads\Christmas\bm_Xmas_gift03.blp
@@ -2578,6 +2765,7 @@ world\Generic\PassiveDoodads\Christmas\XmasTreeLarge_Horde01Branch.blp
 world\Generic\PassiveDoodads\Christmas\XmasTreeLarge_Horde01Chain.blp
 world\Generic\PassiveDoodads\Christmas\XmasTreeLarge_Horde01Ornaments.blp
 world\Generic\PassiveDoodads\Christmas\XmasTreeLarge_Horde01Trunk.blp
+world\Generic\PassiveDoodads\DeadTreeLogs\deadtreelog02.m2
 world\Generic\PassiveDoodads\DeathSkeletons\TrollFemaleDeathSkeleton.M2
 world\Generic\PassiveDoodads\DeathSkeletons\Trollmaledeathskeleton.M2
 world\Generic\PassiveDoodads\DUELINGFLAG\DUST2B.BLP
@@ -2586,11 +2774,18 @@ world\Generic\PassiveDoodads\Fish\fishskel02.m2
 world\Generic\PassiveDoodads\Fruits\fruit_apple.m2
 world\Generic\PassiveDoodads\Fruits\fruit_melon.m2
 world\Generic\PassiveDoodads\Fruits\fruit_orange.m2
+world\Generic\PassiveDoodads\furniture\containers\barrel02.m2
+world\Generic\PassiveDoodads\furniture\containers\crate03.m2
 world\Generic\PassiveDoodads\furniture\containers\g_barrel.m2
+world\Generic\PassiveDoodads\furniture\containers\sack01.m2
 world\Generic\PassiveDoodads\furniture\refuse\bone01.m2
 world\Generic\PassiveDoodads\furniture\refuse\bone02.m2
 world\Generic\PassiveDoodads\Lights\generaltorch01.m2
+world\Generic\PassiveDoodads\Misc\Wheelbarrow\caveminewheelbarrow01.m2
 world\Generic\PassiveDoodads\Oktoberfest\7legion_demonhunter.blp
+world\Generic\PassiveDoodads\Oktoberfest\beerfest_keg02_0_2918596.blp
+world\Generic\PassiveDoodads\Oktoberfest\beerfest_keg02_2_2918597.blp
+world\Generic\PassiveDoodads\Oktoberfest\beerfest_keg04_0_2918594.blp
 world\Generic\PassiveDoodads\Oktoberfest\beerfest_mug01_0_2918540.blp
 world\Generic\PassiveDoodads\PostBoxes\POSTBOXDWARF.blp
 world\Generic\PassiveDoodads\PostBoxes\POSTBOXDWARF02.blp
@@ -2689,6 +2884,7 @@ world\Generic\Undead\Passive Doodads\BatRoost\BatRoost03.M2
 world\Goober\BUBBLE.BLP
 world\Goober\fireplume64.blp
 world\Goober\g_barrel.m2
+world\Goober\g_netablet.m2
 world\Goober\GunShop.blp
 world\Goober\mm_xmas_treebranch_01.blp
 world\Goober\mm_xmas_treelights_01.blp
@@ -2755,6 +2951,9 @@ world\Kalimdor\barrens\passivedoodads\trees\BARRENSTREELEAVES07.blp
 world\Kalimdor\barrens\passivedoodads\trees\BarrensTreeLeavesGreen01.blp
 world\Kalimdor\barrens\passivedoodads\trees\BarrensTreeLeavesGreen02.blp
 world\Kalimdor\barrens\passivedoodads\trees\BarrensTreeLeavesGreen03.blp
+world\Kalimdor\darkshore\GiantSeaTurtle\giantseaturtle03.m2
+world\Kalimdor\darkshore\GiantSeaTurtle\giantseaturtle04.m2
+world\Kalimdor\darkshore\passivedoodads\anchors\darkshoreanchor01.m2
 world\Kalimdor\darkshore\passivedoodads\bushes\darkshorebush01.m2
 world\Kalimdor\darkshore\passivedoodads\bushes\darkshorebush02.m2
 world\Kalimdor\darkshore\passivedoodads\bushes\darkshorebush03.m2
@@ -2810,6 +3009,7 @@ world\Kalimdor\dustwallow\passivedoodads\bushes\dustwallowshrub03.m2
 world\Kalimdor\dustwallow\passivedoodads\walls\dustwallowstonewall.blp
 world\Kalimdor\felwood\passivedoodads\felwoodmushrooms\felwoodmushroom01.m2
 world\Kalimdor\felwood\passivedoodads\felwoodmushrooms\felwoodmushroomanim.m2
+world\Kalimdor\generic\passivedoodads\nightelfguardtower\nightelfguardtower.m2
 world\Kalimdor\Kalidar\PassiveDoodads\FurbolgTent\furbolgtent.m2
 world\Kalimdor\Kalidar\PassiveDoodads\FurbolgTent\furbolgtent2.m2
 world\Kalimdor\Kalidar\PassiveDoodads\FurbolgTotem\furbolgtotem01.m2
@@ -3235,9 +3435,84 @@ world\SkillActivated\TradeskillEnablers\Bigforge.blp
 world\SkillActivated\TradeskillEnablers\forge.blp
 world\SkillActivated\TradeskillEnablers\tradeskill_anvil_01.m2
 world\SkillActivated\TradeskillEnablers\tradeskill_forge_03.m2
+world\wmo\azeroth\buildings\goldshireinn\goldshireinn.wmo
+world\wmo\azeroth\buildings\goldshireinn\goldshireinn_000.wmo
+world\wmo\azeroth\buildings\goldshireinn\goldshireinn_001.wmo
+world\wmo\azeroth\buildings\goldshireinn\goldshireinn_002.wmo
+world\wmo\azeroth\buildings\goldshireinn\goldshireinn_003.wmo
+world\wmo\azeroth\buildings\goldshireinn\goldshireinn_004.wmo
+world\wmo\azeroth\buildings\goldshireinn\goldshireinn_005.wmo
+world\wmo\azeroth\buildings\goldshireinn\goldshireinn_006.wmo
+world\wmo\azeroth\buildings\goldshireinn\goldshireinn_007.wmo
+world\wmo\azeroth\buildings\goldshireinn\goldshireinn_008.wmo
+world\wmo\azeroth\buildings\goldshireinn\goldshireinn_009.wmo
+world\wmo\azeroth\buildings\human_farm\farm.wmo
+world\wmo\azeroth\buildings\human_farm\farm_000.wmo
+world\wmo\azeroth\buildings\human_farm\farm_001.wmo
+world\wmo\azeroth\buildings\humantwostory\HumanTwoStory.wmo
+world\wmo\azeroth\buildings\humantwostory\HumanTwoStory_000.wmo
+world\wmo\azeroth\buildings\humantwostory\HumanTwoStory_001.wmo
+world\wmo\azeroth\buildings\humantwostory\HumanTwoStory_002.wmo
+world\wmo\azeroth\buildings\humantwostory\HumanTwoStory_003.wmo
+world\wmo\azeroth\buildings\humantwostory\HumanTwoStory_004.wmo
+world\wmo\azeroth\buildings\humantwostory\HumanTwoStory_005.wmo
 world\wmo\dungeon\md_caveden\MD_MushroomDen.wmo
 world\wmo\dungeon\md_caveden\MD_MushroomDen_000.wmo
 world\wmo\dungeon\md_caveden\MD_MushroomDen_001.wmo
+world\wmo\expansion08\human\9hu_human_barn01_3567014.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567015.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567016.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567017.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567018.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567019.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567020.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567021.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567022.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567023.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567024.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567025.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567026.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567027.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567028.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567029.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567030.blp
+world\wmo\expansion08\human\9hu_human_barn01_3567031.blp
+world\wmo\expansion08\human\9hu_human_barn01_3609728.blp
+world\wmo\expansion08\human\9hu_human_farm01_3567593.blp
+world\wmo\expansion08\human\9hu_human_farm01_3567594.blp
+world\wmo\expansion08\human\9hu_human_farm01_3567595.blp
+world\wmo\expansion08\human\9hu_human_farm01_3567596.blp
+world\wmo\expansion08\human\9hu_human_farm01_3567597.blp
+world\wmo\expansion08\human\9hu_human_farm01_3567598.blp
+world\wmo\expansion08\human\9hu_human_farm01_3567599.blp
+world\wmo\expansion08\human\9hu_human_farm01_3567600.blp
+world\wmo\expansion08\human\9hu_human_farm01_3567601.blp
+world\wmo\expansion08\human\9hu_human_farm01_3567602.blp
+world\wmo\expansion08\human\9hu_human_farm01_3567603.blp
+world\wmo\expansion08\human\9hu_human_farm01_3567604.blp
+world\wmo\expansion08\human\9hu_human_farm01_3567605.blp
+world\wmo\expansion08\human\9hu_human_goldshireinn01_3719118.blp
+world\wmo\expansion08\human\9hu_human_goldshireinn01_3719119.blp
+world\wmo\expansion08\human\9hu_human_goldshireinn01_3719120.blp
+world\wmo\expansion08\human\9hu_human_goldshireinn01_3719121.blp
+world\wmo\expansion08\human\9hu_human_goldshireinn01_3719122.blp
+world\wmo\expansion08\human\9hu_human_goldshireinn01_3719123.blp
+world\wmo\expansion08\human\9hu_human_goldshireinn01_3719124.blp
+world\wmo\expansion08\human\9hu_human_goldshireinn01_3719125.blp
+world\wmo\expansion08\human\9hu_human_goldshireinn01_3719126.blp
+world\wmo\expansion08\human\9hu_human_goldshireinn01_3719127.blp
+world\wmo\expansion08\human\9hu_human_goldshireinn01_3719128.blp
+world\wmo\expansion08\human\9hu_human_goldshireinn01_3719129.blp
+world\wmo\expansion08\human\9hu_human_goldshireinn01_3719130.blp
+world\wmo\expansion08\human\9hu_human_goldshireinn01_3719131.blp
+world\wmo\expansion08\human\9hu_human_goldshireinn01_3719132.blp
+world\wmo\expansion08\human\9hu_human_goldshireinn01_3719133.blp
+world\wmo\expansion08\human\9hu_human_twostory01_3609725.blp
+world\wmo\expansion08\human\9hu_human_twostory01_3609726.blp
+world\wmo\expansion08\human\9hu_human_twostory01_3609727.blp
+world\wmo\expansion08\human\9hu_human_twostory01_3609729.blp
+world\wmo\expansion08\human\9hu_human_twostory01_3609730.blp
+world\wmo\expansion08\human\9hu_human_twostory01_3609731.blp
 world\wmo\expansion09\exterior\10xt_exterior_cave04_4324876.blp
 world\wmo\expansion09\exterior\10xt_exterior_chasm02_4214647.blp
 world\wmo\expansion09\exterior\10xt_exterior_den_cavemicro_02_4177717.blp
@@ -3339,5 +3614,19 @@ world\wmo\kalimdor\CollidableDoodads\darkshore\bridge\darkshorebridge\brian\dark
 world\wmo\kalimdor\CollidableDoodads\darkshore\bridge\darkshorebridge\brian\darkshorebridge03_000.wmo
 world\wmo\kalimdor\CollidableDoodads\darkshore\darkshoredocks\darkshoredocks03.wmo
 world\wmo\kalimdor\CollidableDoodads\darkshore\darkshoredocks\darkshoredocks03_000.wmo
+world\wmo\kalimdor\CollidableDoodads\darkshore\giantseaturtle01\giantseaturtle01.wmo
+world\wmo\kalimdor\CollidableDoodads\darkshore\giantseaturtle01\giantseaturtle01_000.wmo
+world\wmo\kalimdor\CollidableDoodads\darkshore\giantseaturtle02\giantseaturtle02.wmo
+world\wmo\kalimdor\CollidableDoodads\darkshore\giantseaturtle02\giantseaturtle02_000.wmo
+world\wmo\kultiras\human\8hu_pvp_arathibasinbg_blacksmith01_2144289.blp
+world\wmo\kultiras\human\8hu_pvp_arathibasinbg_blacksmith01_2144291.blp
+world\wmo\kultiras\human\8hu_pvp_arathibasinbg_blacksmith01_2144297.blp
+world\wmo\kultiras\human\8hu_pvp_arathibasinbg_blacksmith01_2144301.blp
+world\wmo\kultiras\human\8hu_pvp_arathibasinbg_blacksmith01_2144303.blp
+world\wmo\kultiras\human\8hu_pvp_arathibasinbg_blacksmith01_2144313.blp
+world\wmo\kultiras\human\8hu_pvp_arathibasinbg_blacksmith01_2144319.blp
+world\wmo\kultiras\human\8hu_pvp_arathibasinbg_blacksmith01_2144321.blp
+world\wmo\kultiras\human\8hu_pvp_arathibasinbg_blacksmith01_2144323.blp
+world\wmo\kultiras\human\8hu_pvp_arathibasinbg_blacksmith01_2144327.blp
 world\wmo\transports\transport_ship_ne\transportship_ne.wmo
 world\wmo\transports\transport_ship_ne\transportship_ne_000.wmo
